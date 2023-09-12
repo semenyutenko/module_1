@@ -18,4 +18,7 @@ fun main(args: Array<String>) {
     val fiveDouble = five.code.toDouble()
     val fiveFloat = five.code.toFloat()
     val fiveLong = five.code.toLong()
+
+    // task_5
+    var range = 'z' downTo 'a'
 }
